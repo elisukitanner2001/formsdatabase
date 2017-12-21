@@ -1,0 +1,44 @@
+body{
+	background-image: url("../images/bestwood.jpg");
+	
+	
+}
+
+
+#help{
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	text-shadow: 5px 2px 6px green;
+}
+h2{
+	
+	text-align: center;
+	background-color: #acbdef;
+	
+}
+h3{
+	text-align: center;
+	color:#00dd00;
+	background-color: aqua;
+	
+}
+
+#meme1p{
+	
+	
+	text-align: center;
+	
+}
+.meme1{
+	
+	
+	padding:10px;
+	border: 10px groove purple;
+	
+}
+h5{
+	font-family: 'Indie Flower', cursive;
+	font-size: 55px;
+	color: #ffccff;
+}
+
